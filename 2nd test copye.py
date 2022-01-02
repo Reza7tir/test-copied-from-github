@@ -1,6 +1,6 @@
 import random
 
-def generatePassword(pwlength):
+def generate??Password(pwlength):
 
     alphabet = "abcdefghijklmnopqrstuvwxyz"
 
